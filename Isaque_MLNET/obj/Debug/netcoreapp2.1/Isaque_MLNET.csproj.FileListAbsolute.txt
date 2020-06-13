@@ -1,0 +1,13 @@
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\bin\Debug\netcoreapp2.1\Isaque_MLNET.deps.json
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\bin\Debug\netcoreapp2.1\Isaque_MLNET.runtimeconfig.json
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\bin\Debug\netcoreapp2.1\Isaque_MLNET.runtimeconfig.dev.json
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\bin\Debug\netcoreapp2.1\Isaque_MLNET.dll
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\obj\Debug\netcoreapp2.1\Isaque_MLNET.csprojAssemblyReference.cache
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\obj\Debug\netcoreapp2.1\Isaque_MLNET.csproj.CoreCompileInputs.cache
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\obj\Debug\netcoreapp2.1\Isaque_MLNET.AssemblyInfoInputs.cache
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\obj\Debug\netcoreapp2.1\Isaque_MLNET.AssemblyInfo.cs
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\bin\Debug\netcoreapp2.1\Data\iris.txt
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\bin\Debug\netcoreapp2.1\Data\iris2.txt
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\bin\Debug\netcoreapp2.1\Isaque_MLNET.pdb
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\obj\Debug\netcoreapp2.1\Isaque_MLNET.dll
+C:\Users\Isaque-Notebook\Documents\GitHub\Isaque_MLNET\Isaque_MLNET\Isaque_MLNET\obj\Debug\netcoreapp2.1\Isaque_MLNET.pdb
